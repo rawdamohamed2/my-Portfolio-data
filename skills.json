@@ -1,0 +1,42 @@
+[
+    {
+        "title": "HTML",
+        "percentage": "90",
+        "icon": "fa-brands fa-html5"
+    },
+    {
+        "title": "JavaScript",
+        "percentage": "85",
+        "icon": "fa-brands fa-square-js"
+    },
+    {
+        "title": "CSS",
+        "percentage": "85",
+        "icon": "fa-brands fa-css"
+    },
+    {
+        "title": "Bootstrap",
+        "percentage": "90",
+        "icon": "fa-brands fa-bootstrap"
+    },
+    {
+        "title": "React",
+        "percentage": "75",
+        "icon": "fa-brands fa-react"
+    },
+    {
+        "title": "jQuery",
+        "percentage": "70",
+        "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1755121430/jquery_gjw3jx.png"
+    },
+    {
+        "title": "Tailwindcss",
+        "percentage": "80",
+        "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1755121430/tailwindcss_syvfrw.png"
+    },
+    {
+        "title": "Typescript",
+        "percentage": "70",
+        "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1755121430/typescript_jxbbjz.png"
+    }
+]
