@@ -50,8 +50,7 @@
     "description": "My first React project is a responsive portfolio site using React, Bootstrap, and JavaScript. It features smooth scroll, active link highlighting, dark mode, animations, a validated contact form.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119500/Portfolio_m2oik8.png",
     "linkDemo": "https://rawdamohamed2.github.io/portfolio-website/",
-    "GitHub": "https://github.com/rawdamohamed2/portfolio-website" ,
-    "Vanilla": false
+    "GitHub": "https://github.com/rawdamohamed2/portfolio-website" 
   },
   {
     "id": 7,
@@ -59,8 +58,7 @@
     "description": "A React-based calculator with a clean interface. It supports basic operations, keyboard input, history tracking, and memory functions. It helps solve calculations quickly and accurately.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119447/Calculator_fmwnfx.png",
     "linkDemo": "https://rawdamohamed2.github.io/CodeAlpha_Calculator/",
-    "GitHub": "https://github.com/rawdamohamed2/CodeAlpha_Calculator",
-    "Vanilla": false
+    "GitHub": "https://github.com/rawdamohamed2/CodeAlpha_Calculator"
   }, 
   {
     "id": 8,
@@ -68,15 +66,13 @@
     "description": "A to-do list app is a simple tool that helps users organize tasks, set priorities.It allows adding, editing, and deleting tasks, marking them as completed, and filtering tasks based on their status.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755372551/Todolist_e7kqss.png",
     "linkDemo": "https://todolistrm.netlify.app/",
-    "GitHub": "https://github.com/rawdamohamed2/code_sentinel_TodoListApp" ,
-    "Vanilla": false
+    "GitHub": "https://github.com/rawdamohamed2/code_sentinel_TodoListApp" 
   },{
     "id": 9,
     "title": "prodect Card",
     "description": "A product card app shows product details in a simple card view. It includes name, image, price, and description. It helps users browse items quickly and make purchase decisions.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755372617/prouctcard_swuibz.png",
     "linkDemo": "https://projectcardrm.netlify.app/",
-    "GitHub": "https://github.com/rawdamohamed2/code_sentinel_ProductCard" ,
-    "Vanilla": false
+    "GitHub": "https://github.com/rawdamohamed2/code_sentinel_ProductCard" 
   }
 ]
