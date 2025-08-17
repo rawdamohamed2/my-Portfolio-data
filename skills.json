@@ -38,5 +38,9 @@
         "title": "Typescript",
         "percentage": "70",
         "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1755121430/typescript_jxbbjz.png"
+    },{
+        "title": "Rest Api",
+        "percentage": "80",
+        "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1755452039/icons8-rest-api-60_yymyk9.png"
     }
 ]
