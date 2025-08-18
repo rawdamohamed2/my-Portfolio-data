@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Game Reviews",
-    "description": "A responsive game store interface using HTML, CSS, Bootstrap, and JavaScript. It fetches and displays game data from an API in styled cards with modals for details.It allows users to read detailed reviews.",
+    "title": "GameAtlas",
+    "description": "A responsive game website. It fetches and displays game data from an API in styled cards with modals for details. It also allows users to filter games by category and It allows users to read detailed reviews. built with HTML, CSS, Bootstrap, and JavaScript for API integration.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119495/game_nhhoyj.png",
     "linkDemo": "https://rawdamohamed2.github.io/Game-Reviews/",
     "GitHub":"https://github.com/rawdamohamed2/Game-Reviews" ,
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "title": "Weather Website",
-    "description": "A weather forecast website that fetches real-time weather data using an external API. It displays current temperature, weather conditions, and city-specific information — built with HTML, CSS, JavaScript, and Axios for API integration.",
+    "title": "SkyCast",
+    "description": "A responsive weather website that fetches real-time weather data using an external API. It displays current temperature, weather conditions, and city-specific information with a search option for any country, built with HTML, CSS, Bootstrap, and JavaScript for API integration.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119505/weather_v8does.png",
     "linkDemo": "https://rawdamohamed2.github.io/weather-Web/",
     "GitHub":"https://github.com/rawdamohamed2/weather-Web" ,
@@ -19,8 +19,8 @@
   },
   {
     "id": 3,
-    "title": "Fokir Website",
-    "description": "A personal portfolio website inspired by the Fokir template, built to practice and enhance my frontend development skills using HTML, CSS, Bootstrap, and JavaScript  featuring responsive design, smooth scrolling, and interactive UI elements.",
+    "title": "Fokir Portfolio",
+    "description":"A personal portfolio website inspired by the Fokir template. It showcases projects, skills, and contact details with responsive design for different screen sizes with smooth scrolling, interactive UI elements, and mobile-friendly design, built with HTML, CSS, Bootstrap, and JavaScript.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119477/fokir_i3xlaq.png",
     "linkDemo": "https://rawdamohamed2.github.io/Fokir-Web/",
     "GitHub":"https://github.com/rawdamohamed2/Fokir-Web" ,
@@ -28,8 +28,9 @@
   },
   {
     "id": 4,
-    "title": "Product Management",
-    "description": "A dynamic CRUD (Create, Read, Update, Delete) system website that allows users to manage data entries efficiently through an interactive interface developed using HTML, CSS, JavaScript, and localStorage for data persistence.",
+    "title": "Product Manager",
+    "description": "A responsive CRUD system website that allows users to manage product records. It offers a complete CRUD (Create, Read, Update, Delete) functionality where users can add, edit, and remove product details with persistent storage using localStorage, built with HTML, Bootstrap, and JavaScript.",
+    
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119455/curd_s3drlq.png",
     "linkDemo": "https://rawdamohamed2.github.io/Product-CRUD/",
     "GitHub":"https://github.com/rawdamohamed2/Product-CRUD" ,
@@ -37,8 +38,8 @@
   },
   {
     "id": 5,
-    "title": "Gallery Website",
-    "description": "A responsive and interactive gallery website that allows users to filter images by category, preview them in a modal, switch between light/dark modes, and save favorites using localStorage  built with HTML, CSS, JavaScript, and Bootstrap.",
+    "title": "PixelShelf",
+    "description": "A responsive gallery website that allows users to browse and filter images by category. It provides interactive features including modal previews, light and dark modes, and a favorites option with data persistence using localStorage, built with HTML, CSS, Bootstrap, and JavaScript.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119485/gallery_lzdqpg.png",
     "linkDemo": "https://rawdamohamed2.github.io/CodeAlpha_ImageGallery/",
     "GitHub": "https://github.com/rawdamohamed2/CodeAlpha_ImageGallery" ,
@@ -47,30 +48,31 @@
   {
     "id": 6,
     "title": "My Portfolio",
-    "description": "My first React project is a responsive portfolio site using React, Bootstrap, and JavaScript. It features smooth scroll, active link highlighting, dark mode, animations, a validated contact form.",
+    "description": "My first React project is a A responsive portfolio website that showcases personal projects and skills. It provides smooth scrolling, active link highlighting, interactive animations, and a functional contact form with validation, built using React and Tailwind CSS.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119500/Portfolio_m2oik8.png",
     "linkDemo": "https://rawdamohamed2.github.io/portfolio-website/",
     "GitHub": "https://github.com/rawdamohamed2/portfolio-website" 
   },
   {
     "id": 7,
-    "title": "Calculator Website",
-    "description": "A React-based calculator with a clean interface. It supports basic operations, keyboard input, history tracking, and memory functions. It helps solve calculations quickly and accurately.",
+    "title": "ReactCalc",
+    "description": "A responsive calculator website that allows users to perform basic computations. It provides a dynamic calculator system that enables users to handle basic arithmetic operations, keyboard input, history tracking, and memory functions, built with React and Tailwind CSS.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119447/Calculator_fmwnfx.png",
     "linkDemo": "https://rawdamohamed2.github.io/CodeAlpha_Calculator/",
     "GitHub": "https://github.com/rawdamohamed2/CodeAlpha_Calculator"
   }, 
   {
     "id": 8,
-    "title": "To-Do List",
-    "description": "A to-do list app is a simple tool that helps users organize tasks, set priorities.It allows adding, editing, and deleting tasks, marking them as completed, and filtering tasks based on their status.",
+    "title": "TickIt",
+    "description": "A responsive to-do list website that allows users to manage daily tasks. It provides a dynamic task system that enables users to create, update, delete, and mark tasks as complete with filtering and persistence using React, Tailwind CSS, and localStorage.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755372551/Todolist_e7kqss.png",
     "linkDemo": "https://todolistrm.netlify.app/",
     "GitHub": "https://github.com/rawdamohamed2/code_sentinel_TodoListApp" 
-  },{
+  },
+  {
     "id": 9,
     "title": "prodect Card",
-    "description": "A product card app shows product details in a simple card view. It includes name, image, price, and description. It helps users browse items quickly and make purchase decisions.",
+    "description": "A responsive product card app that displays product details in a simple card view. It provides a dynamic layout that shows the product name, image, price, and description, with a clean design, built with React and Tailwind CSS.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755372617/prouctcard_swuibz.png",
     "linkDemo": "https://projectcardrm.netlify.app/",
     "GitHub": "https://github.com/rawdamohamed2/code_sentinel_ProductCard" 
