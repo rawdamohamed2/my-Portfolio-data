@@ -50,8 +50,8 @@
     "title": "My Portfolio",
     "description": "My first React project is a A responsive portfolio website that showcases personal projects and skills. It provides smooth scrolling, active link highlighting, interactive animations, and a functional contact form with validation, built using React and Tailwind CSS.",
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119500/Portfolio_m2oik8.png",
-    "linkDemo": "https://rawdamohamed2.github.io/portfolio-website/",
-    "GitHub": "https://github.com/rawdamohamed2/portfolio-website" 
+    "linkDemo": "https://rawdamohamed.netlify.app/",
+    "GitHub": "https://github.com/rawdamohamed2/code_sentinel_PortfolioWebsite" 
   },
   {
     "id": 7,
