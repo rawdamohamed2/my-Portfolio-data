@@ -30,7 +30,6 @@
     "id": 4,
     "title": "Product Manager",
     "description": "A responsive CRUD system website that allows users to manage product records. It offers a complete CRUD (Create, Read, Update, Delete) functionality where users can add, edit, and remove product details with persistent storage using localStorage, built with HTML, Bootstrap, and JavaScript.",
-    
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755119455/curd_s3drlq.png",
     "linkDemo": "https://rawdamohamed2.github.io/Product-CRUD/",
     "GitHub":"https://github.com/rawdamohamed2/Product-CRUD" ,
@@ -76,5 +75,23 @@
     "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1755372617/prouctcard_swuibz.png",
     "linkDemo": "https://projectcardrm.netlify.app/",
     "GitHub": "https://github.com/rawdamohamed2/code_sentinel_ProductCard" 
+  },  
+  {
+    "id": 10,
+    "title": "movie App",
+    "description": "A responsive movie and TV browsing app with authentication. It includes login/register using JWT with Joi validation, search across movies and TV, filtering, sorting, and actor profiles with IMDb links. Built with React, Vite, Tailwind, Context API, Axios, React Router, and TMDb API.",
+    "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1758138474/cinehub-movieapp.netlify.app__rs3whd.png",
+    "linkDemo": "https://cinehub-movieapp.netlify.app/",
+    "GitHub":"https://github.com/rawdamohamed2/movieApp" ,
+    "Vanilla": false
+  }, 
+  {
+    "id": 11,
+    "title": "Clipboard Landing Page",
+    "description": "A responsive landing page for the Clipboard app built with React and Tailwind CSS. It highlights product features, testimonials, and call-to-action sections with a clean design and mobile-first layout.",
+    "image": "https://res.cloudinary.com/dw956xm88/image/upload/v1758138505/clipboard-landing1.netlify.app__h39fsc.png",
+    "linkDemo": "https://clipboard-landing1.netlify.app/",
+    "GitHub":"https://github.com/rawdamohamed2/clipboard-landing-page" ,
+    "Vanilla": false
   }
 ]

@@ -43,6 +43,16 @@
         "title": "jQuery",
         "percentage": "90",
         "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1755121430/jquery_gjw3jx.png"
+    },
+    {
+        "title": "Redux",
+        "percentage": "80",
+        "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1758139223/icons8-redux-64_bxvow1.png"
+    },
+    {
+        "title": "Sass",
+        "percentage": "90",
+        "icon": "https://res.cloudinary.com/dw956xm88/image/upload/v1758139230/icons8-sass-64_ialu0i.png"
     }
 
 ]
